@@ -1,11 +1,16 @@
 # 🚗 Sistema de Gerenciamento de Oficina Mecânica 🛠️
 
+
 Bem-vindo ao repositório do Sistema de Gerenciamento de Oficina Mecânica! Este projeto foi desenvolvido para facilitar o controle de clientes, veículos, serviços e equipes em uma oficina mecânica. Aqui você encontrará toda a estrutura do banco de dados e a lógica necessária para gerenciar ordens de serviço, peças e mecânicos.
+
 ---
-## 🎯 Objetivo
+
+## 🎯 Objetivo:
 
 O objetivo deste projeto é fornecer uma solução eficiente para o gerenciamento de oficinas mecânicas, permitindo o controle de clientes, veículos, serviços, peças e equipes de mecânicos. Com isso, busca-se automatizar processos, melhorar a organização e aumentar a produtividade da oficina, garantindo um atendimento mais ágil e de qualidade aos clientes.
+
 ---
+
 ## 📋 Funcionalidades Principais
 Cadastro de Clientes 👤: Armazene informações como nome, telefone e endereço dos clientes.
 
@@ -18,7 +23,9 @@ Formação de Equipes 👥: Crie equipes de mecânicos para atender às ordens d
 Ordens de Serviço 📑: Emita ordens de serviço com detalhes como data, valor total e status.
 
 Serviços e Peças 🛠️: Cadastre serviços e peças, vinculando-os às ordens de serviço.
+
 ---
+
 ## 🗂️ Estrutura do Banco de Dados
 O banco de dados foi modelado com as seguintes tabelas:
 
