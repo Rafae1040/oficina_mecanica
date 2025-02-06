@@ -1,7 +1,9 @@
 # 🚗 Sistema de Gerenciamento de Oficina Mecânica 🛠️
+
 Bem-vindo ao repositório do Sistema de Gerenciamento de Oficina Mecânica! Este projeto foi desenvolvido para facilitar o controle de clientes, veículos, serviços e equipes em uma oficina mecânica. Aqui você encontrará toda a estrutura do banco de dados e a lógica necessária para gerenciar ordens de serviço, peças e mecânicos.
 ---
 ## 🎯 Objetivo
+
 O objetivo deste projeto é fornecer uma solução eficiente para o gerenciamento de oficinas mecânicas, permitindo o controle de clientes, veículos, serviços, peças e equipes de mecânicos. Com isso, busca-se automatizar processos, melhorar a organização e aumentar a produtividade da oficina, garantindo um atendimento mais ágil e de qualidade aos clientes.
 ---
 ## 📋 Funcionalidades Principais
